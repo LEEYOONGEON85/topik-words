@@ -446,7 +446,7 @@
  {
   "id": 15145,
   "hangul": "가장",
-  "level": 1,
+  "level": 3,
   "pos": "명사",
   "meaningJa": "家長",
   "exampleKo": "아버지는 우리 집의 가장이다.",
@@ -1996,7 +1996,7 @@
  {
   "id": 24085,
   "hangul": "구",
-  "level": 1,
+  "level": 3,
   "pos": "명사",
   "meaningJa": "区",
   "exampleKo": "우리 구에는 큰 공원이 있어요.",
@@ -5896,7 +5896,7 @@
  {
   "id": 53070,
   "hangul": "말",
-  "level": 1,
+  "level": 2,
   "pos": "의존 명사",
   "meaningJa": "末",
   "exampleKo": "이번 달 말에 이사해요.",
@@ -10016,7 +10016,7 @@
  {
   "id": 15954,
   "hangul": "시",
-  "level": 1,
+  "level": 3,
   "pos": "명사",
   "meaningJa": "詩",
   "exampleKo": "나는 조용한 방에서 시를 읽었다.",
@@ -11306,7 +11306,7 @@
  {
   "id": 58164,
   "hangul": "약",
-  "level": 1,
+  "level": 2,
   "pos": "관형사",
   "meaningJa": "約",
   "exampleKo": "이 공원에 약 천 명이 모였어요.",
@@ -14496,7 +14496,7 @@
  {
   "id": 73814,
   "hangul": "장",
-  "level": 1,
+  "level": 2,
   "pos": "명사",
   "meaningJa": "章",
   "exampleKo": "오늘은 책의 첫 장을 읽었어요.",
