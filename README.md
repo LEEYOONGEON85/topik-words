@@ -23,4 +23,4 @@
 ## 필드
 `id` 사전 번호 · `hangul` 표제어 · `level` 1 초급 / 2 중급 / 3 고급 · `pos` 품사 · `meaningJa` 일본어 뜻 · `exampleKo` 예문 · `exampleJa` 예문 번역 · `quizBlank` 예문 속 단어 · `note` 참고
 
-갱신: 2026-10-06 · 단어 1872개
+갱신: 2026-10-06 · 단어 1929개

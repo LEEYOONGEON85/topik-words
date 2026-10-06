@@ -2114,6 +2114,16 @@
   "quizBlank": "국제"
  },
  {
+  "id": 62241,
+  "hangul": "군인",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "軍人",
+  "exampleKo": "군인이 문 앞에 서 있어요.",
+  "exampleJa": "軍人が門の前に立っています。",
+  "quizBlank": "군인"
+ },
+ {
   "id": 89458,
   "hangul": "굵다",
   "level": 2,
@@ -2952,6 +2962,16 @@
   "exampleKo": "밥을 김에 싸서 먹었어요.",
   "exampleJa": "ご飯を海苔で包んで食べました。",
   "quizBlank": "김"
+ },
+ {
+  "id": 28818,
+  "hangul": "김치",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "キムチ",
+  "exampleKo": "어머니가 만든 김치는 정말 맛있어요.",
+  "exampleJa": "母が作ったキムチは本当においしいです。",
+  "quizBlank": "김치"
  },
  {
   "id": 45157,
@@ -5002,16 +5022,6 @@
   "exampleKo": "나는 집에서 어머니의 집안일을 도왔다.",
   "exampleJa": "私は家で母の家事を手伝った。",
   "quizBlank": "도왔다"
- },
- {
-  "id": 65504,
-  "hangul": "동",
-  "level": 3,
-  "pos": "명사",
-  "meaningJa": "東",
-  "exampleKo": "해는 동에서 떠요.",
-  "exampleJa": "太陽は東から昇ります。",
-  "quizBlank": "동에서"
  },
  {
   "id": 62417,
@@ -7334,16 +7344,6 @@
   "quizBlank": "배"
  },
  {
-  "id": 58079,
-  "hangul": "배",
-  "level": 1,
-  "pos": "의존 명사",
-  "meaningJa": "杯",
-  "exampleKo": "나는 술 석 배를 마셨어요.",
-  "exampleJa": "私はお酒を三杯飲みました。",
-  "quizBlank": "배를"
- },
- {
   "id": 58797,
   "hangul": "배달",
   "level": 2,
@@ -7382,16 +7382,6 @@
   "exampleKo": "올해는 배추가 풍작이라서 배추 가격이 조금 내려갈 전망이다.",
   "exampleJa": "今年は白菜が豊作なので、白菜の値段が少し下がる見通しだ。",
   "quizBlank": "배추"
- },
- {
-  "id": 93403,
-  "hangul": "백",
-  "level": 1,
-  "pos": "명사",
-  "meaningJa": "バッグ",
-  "exampleKo": "이 백은 작아 보이지만 꽤 많은 물건을 넣을 수 있다.",
-  "exampleJa": "このバッグは小さく見えるが、かなり多くの物を入れることができる。",
-  "quizBlank": "백"
  },
  {
   "id": 36019,
@@ -7972,16 +7962,6 @@
   "exampleKo": "저기 오시는 분이 저희 선생님이십니다.",
   "exampleJa": "あそこにいらっしゃる方が私たちの先生です。",
   "quizBlank": "분"
- },
- {
-  "id": 59403,
-  "hangul": "분",
-  "level": 1,
-  "pos": "명사",
-  "meaningJa": "おしろい",
-  "exampleKo": "할머니는 얼굴에 분을 발랐어요.",
-  "exampleJa": "おばあさんは顔におしろいを塗りました。",
-  "quizBlank": "분을"
  },
  {
   "id": 70891,
@@ -8864,6 +8844,16 @@
   "quizBlank": "생각하다"
  },
  {
+  "id": 67898,
+  "hangul": "생기다",
+  "level": 1,
+  "pos": "동사",
+  "meaningJa": "できる",
+  "exampleKo": "집 앞에 새 공원이 생겼어요.",
+  "exampleJa": "家の前に新しい公園ができました。",
+  "quizBlank": "생겼어요"
+ },
+ {
   "id": 26850,
   "hangul": "생선",
   "level": 1,
@@ -9302,6 +9292,16 @@
   "exampleKo": "세상에는 여러 나라가 있어요.",
   "exampleJa": "世の中にはいろいろな国があります。",
   "quizBlank": "세상에는"
+ },
+ {
+  "id": 63547,
+  "hangul": "세수",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "洗顔",
+  "exampleKo": "아침에 비누로 세수를 해요.",
+  "exampleJa": "朝、石けんで顔を洗います。",
+  "quizBlank": "세수"
  },
  {
   "id": 58163,
@@ -10404,6 +10404,16 @@
   "quizBlank": "싣기"
  },
  {
+  "id": 26872,
+  "hangul": "실례",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "失礼",
+  "exampleKo": "실례지만, 여기 앉아도 돼요?",
+  "exampleJa": "失礼ですが、ここに座ってもいいですか。",
+  "quizBlank": "실례"
+ },
+ {
   "id": 66284,
   "hangul": "실례하다",
   "level": 1,
@@ -10764,6 +10774,16 @@
   "quizBlank": "아내"
  },
  {
+  "id": 65980,
+  "hangul": "아니",
+  "level": 1,
+  "pos": "부사",
+  "meaningJa": "いや",
+  "exampleKo": "커피 한 잔, 아니 두 잔 주세요.",
+  "exampleJa": "コーヒー一杯、いや、二杯ください。",
+  "quizBlank": "아니"
+ },
+ {
   "id": 26878,
   "hangul": "아니다",
   "level": 1,
@@ -11102,6 +11122,16 @@
   "exampleKo": "우리 가족은 모두 안녕해요.",
   "exampleJa": "私たちの家族はみんな元気です。",
   "quizBlank": "안녕해요"
+ },
+ {
+  "id": 28415,
+  "hangul": "안녕히",
+  "level": 1,
+  "pos": "부사",
+  "meaningJa": "元気で",
+  "exampleKo": "할머니, 안녕히 가세요.",
+  "exampleJa": "おばあさん、お気をつけて。",
+  "quizBlank": "안녕히"
  },
  {
   "id": 72225,
@@ -11474,6 +11504,16 @@
   "quizBlank": "어디예요"
  },
  {
+  "id": 72244,
+  "hangul": "어떠하다",
+  "level": 1,
+  "pos": "형용사",
+  "meaningJa": "どうだ・どのようだ",
+  "exampleKo": "이 옷 어때요?",
+  "exampleJa": "この服、どうですか。",
+  "quizBlank": "어때요"
+ },
+ {
   "id": 17185,
   "hangul": "어떤",
   "level": 1,
@@ -11752,6 +11792,16 @@
   "exampleKo": "이 엘리베이터는 짝수 층에만 선다.",
   "exampleJa": "このエレベーターは偶数階にしか止まらない。",
   "quizBlank": "엘리베이터"
+ },
+ {
+  "id": 70992,
+  "hangul": "여권",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "パスポート",
+  "exampleKo": "여행 전에 여권을 준비했어요.",
+  "exampleJa": "旅行の前にパスポートを準備しました。",
+  "quizBlank": "여권"
  },
  {
   "id": 17863,
@@ -12112,6 +12162,16 @@
   "exampleKo": "바람에 갑자기 문이 열렸다.",
   "exampleJa": "風で突然ドアが開いた。",
   "quizBlank": "열렸다"
+ },
+ {
+  "id": 26888,
+  "hangul": "열쇠",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "鍵",
+  "exampleKo": "책상 위에 집 열쇠가 있어요.",
+  "exampleJa": "机の上に家の鍵があります。",
+  "quizBlank": "열쇠"
  },
  {
   "id": 67512,
@@ -12804,6 +12864,16 @@
   "quizBlank": "우리"
  },
  {
+  "id": 70403,
+  "hangul": "우리나라",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "わが国（韓国人が自国を指す）",
+  "exampleKo": "우리나라에는 아름다운 산이 많아요.",
+  "exampleJa": "わが国（韓国）には美しい山が多いです。",
+  "quizBlank": "우리나라"
+ },
+ {
   "id": 71103,
   "hangul": "우산",
   "level": 1,
@@ -12982,6 +13052,16 @@
   "exampleKo": "지수는 선물을 받고 웃음이 났다.",
   "exampleJa": "ジスはプレゼントをもらって笑いがこぼれた。",
   "quizBlank": "웃음"
+ },
+ {
+  "id": 27771,
+  "hangul": "원",
+  "level": 1,
+  "pos": "의존 명사",
+  "meaningJa": "ウォン",
+  "exampleKo": "지갑에 만 원이 있어요.",
+  "exampleJa": "財布に一万ウォンがあります。",
+  "quizBlank": "원"
  },
  {
   "id": 26721,
@@ -13322,6 +13402,16 @@
   "exampleKo": "이에 일을 더하면 삼이 돼요.",
   "exampleJa": "二に一を足すと三になります。",
   "quizBlank": "이"
+ },
+ {
+  "id": 71128,
+  "hangul": "이거",
+  "level": 1,
+  "pos": "대명사",
+  "meaningJa": "これ",
+  "exampleKo": "이거 얼마예요?",
+  "exampleJa": "これ、いくらですか。",
+  "quizBlank": "이거"
  },
  {
   "id": 44878,
@@ -14782,16 +14872,6 @@
   "exampleKo": "수업 전에 교실을 청소해요.",
   "exampleJa": "授業の前に教室を掃除します。",
   "quizBlank": "전에"
- },
- {
-  "id": 74033,
-  "hangul": "전",
-  "level": 1,
-  "pos": "명사",
-  "meaningJa": "チヂミ",
-  "exampleKo": "제사를 위해서 부친 전을 그릇에 담았다.",
-  "exampleJa": "祭祀のために焼いたチヂミを器に盛った。",
-  "quizBlank": "전"
  },
  {
   "id": 70828,
@@ -16884,6 +16964,16 @@
   "quizBlank": "치마"
  },
  {
+  "id": 26903,
+  "hangul": "치약",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "歯磨き粉",
+  "exampleKo": "칫솔에 치약을 짜요.",
+  "exampleJa": "歯ブラシに歯磨き粉を出します。",
+  "quizBlank": "치약"
+ },
+ {
   "id": 72156,
   "hangul": "친절",
   "level": 2,
@@ -17254,6 +17344,16 @@
   "quizBlank": "타요"
  },
  {
+  "id": 58168,
+  "hangul": "태권도",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "テコンドー",
+  "exampleKo": "남동생이 태권도를 배워요.",
+  "exampleJa": "弟がテコンドーを習っています。",
+  "quizBlank": "태권도"
+ },
+ {
   "id": 62414,
   "hangul": "태도",
   "level": 2,
@@ -17302,6 +17402,16 @@
   "exampleKo": "기차가 터미널에 도착하자 승객들은 짐을 챙겨서 밖으로 나왔다.",
   "exampleJa": "列車がターミナルに到着すると、乗客たちは荷物をまとめて外へ出た。",
   "quizBlank": "터미널"
+ },
+ {
+  "id": 37605,
+  "hangul": "테니스",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "テニス",
+  "exampleKo": "지수는 주말에 테니스를 쳐요.",
+  "exampleJa": "ジスは週末にテニスをします。",
+  "quizBlank": "테니스"
  },
  {
   "id": 72186,
@@ -18054,6 +18164,16 @@
   "quizBlank": "한번"
  },
  {
+  "id": 48061,
+  "hangul": "한복",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "韓服",
+  "exampleKo": "언니가 경복궁에서 한복을 입었어요.",
+  "exampleJa": "姉は景福宮で韓服を着ました。",
+  "quizBlank": "한복"
+ },
+ {
   "id": 72462,
   "hangul": "한잔",
   "level": 2,
@@ -18722,5 +18842,455 @@
   "exampleKo": "승규는 공부 스트레스 때문에 힘들었다.",
   "exampleJa": "スンギュは勉強のストレスのせいで大変だった。",
   "quizBlank": "힘들었다"
+ },
+ {
+  "id": 71319,
+  "hangul": "퍼센트",
+  "level": 1,
+  "pos": "의존 명사",
+  "meaningJa": "パーセント",
+  "exampleKo": "케이크가 50퍼센트 남았어요.",
+  "exampleJa": "ケーキが50パーセント残っています。",
+  "quizBlank": "퍼센트"
+ },
+ {
+  "id": 65114,
+  "hangul": "선생",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "先生",
+  "exampleKo": "지수는 중학교 선생이 되었어요.",
+  "exampleJa": "ジスは中学校の先生になりました。",
+  "quizBlank": "선생"
+ },
+ {
+  "id": 29559,
+  "hangul": "부모",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "両親、親",
+  "exampleKo": "부모가 아이의 손을 잡고 걸어요.",
+  "exampleJa": "両親が子どもの手をつないで歩いています。",
+  "quizBlank": "부모"
+ },
+ {
+  "id": 27223,
+  "hangul": "과",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "課",
+  "exampleKo": "김 대리가 새로운 과 사람들에게 인사해요.",
+  "exampleJa": "キム代理が新しい課の人たちにあいさつします。",
+  "quizBlank": "과"
+ },
+ {
+  "id": 28241,
+  "hangul": "영어",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "英語",
+  "exampleKo": "아이가 영어 ABC를 배워요.",
+  "exampleJa": "子どもが英語のABCを習います。",
+  "quizBlank": "영어"
+ },
+ {
+  "id": 62836,
+  "hangul": "급",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "級",
+  "exampleKo": "민준이는 태권도 급이 올라서 노란 띠를 맸어요.",
+  "exampleJa": "ミンジュンはテコンドーの級が上がって黄色い帯を締めました。",
+  "quizBlank": "급"
+ },
+ {
+  "id": 64228,
+  "hangul": "쇠고기",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "牛肉",
+  "exampleKo": "오늘 저녁에 쇠고기를 구웠어요.",
+  "exampleJa": "今日の夕方、牛肉を焼きました。",
+  "quizBlank": "쇠고기"
+ },
+ {
+  "id": 25950,
+  "hangul": "경찰관",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "警察官",
+  "exampleKo": "경찰관이 길을 알려 줘요.",
+  "exampleJa": "警察官が道を教えてくれます。",
+  "quizBlank": "경찰관"
+ },
+ {
+  "id": 30217,
+  "hangul": "요즈음",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "最近",
+  "exampleKo": "요즈음 날씨가 너무 더워요.",
+  "exampleJa": "最近、天気がとても暑いです。",
+  "quizBlank": "요즈음"
+ },
+ {
+  "id": 26910,
+  "hangul": "한국어",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "韓国語",
+  "exampleKo": "저는 매일 한국어를 공부해요.",
+  "exampleJa": "私は毎日韓国語を勉強しています。",
+  "quizBlank": "한국어"
+ },
+ {
+  "id": 72461,
+  "hangul": "한자",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "漢字",
+  "exampleKo": "승규는 공책에 한자를 써요.",
+  "exampleJa": "スンギュはノートに漢字を書きます。",
+  "quizBlank": "한자"
+ },
+ {
+  "id": 31483,
+  "hangul": "샌드위치",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "サンドイッチ",
+  "exampleKo": "아침에 샌드위치를 만들었어요.",
+  "exampleJa": "朝、サンドイッチを作りました。",
+  "quizBlank": "샌드위치"
+ },
+ {
+  "id": 66342,
+  "hangul": "것",
+  "level": 1,
+  "pos": "대명사",
+  "meaningJa": "もの、こと（것の話し言葉）",
+  "exampleKo": "저 빨간 것 주세요.",
+  "exampleJa": "あの赤いのをください。",
+  "quizBlank": "것"
+ },
+ {
+  "id": 26848,
+  "hangul": "불고기",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "プルゴギ",
+  "exampleKo": "여기 불고기 주세요.",
+  "exampleJa": "すみません、プルゴギをください。",
+  "quizBlank": "불고기"
+ },
+ {
+  "id": 23362,
+  "hangul": "자장면",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "チャジャンミョン",
+  "exampleKo": "오늘 점심은 자장면이에요.",
+  "exampleJa": "今日のお昼はチャジャンミョンです。",
+  "quizBlank": "자장면"
+ },
+ {
+  "id": 57199,
+  "hangul": "발음",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "発音",
+  "exampleKo": "선생님을 따라서 발음을 연습해요.",
+  "exampleJa": "先生に続いて発音を練習します。",
+  "quizBlank": "발음"
+ },
+ {
+  "id": 29316,
+  "hangul": "배고프다",
+  "level": 1,
+  "pos": "형용사",
+  "meaningJa": "空腹だ",
+  "exampleKo": "배고파서 빨리 밥을 먹고 싶어요.",
+  "exampleJa": "お腹がすいたので、早くご飯が食べたいです。",
+  "quizBlank": "배고파서"
+ },
+ {
+  "id": 31843,
+  "hangul": "햄버거",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "ハンバーガー",
+  "exampleKo": "저는 점심에 햄버거를 먹어요.",
+  "exampleJa": "私はお昼にハンバーガーを食べます。",
+  "quizBlank": "햄버거"
+ },
+ {
+  "id": 31508,
+  "hangul": "한국말",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "韓国語",
+  "exampleKo": "외국인 친구가 저에게 한국말을 배워요.",
+  "exampleJa": "外国人の友達が私に韓国語を習っています。",
+  "quizBlank": "한국말"
+ },
+ {
+  "id": 58106,
+  "hangul": "김밥",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "キンパ",
+  "exampleKo": "우리 아이는 김밥을 좋아해요.",
+  "exampleJa": "うちの子はキンパが好きです。",
+  "quizBlank": "김밥"
+ },
+ {
+  "id": 26909,
+  "hangul": "피자",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "ピザ",
+  "exampleKo": "주말에 피자를 시켜 먹었어요.",
+  "exampleJa": "週末にピザを頼んで食べました。",
+  "quizBlank": "피자"
+ },
+ {
+  "id": 57291,
+  "hangul": "달러",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "ドル",
+  "exampleKo": "여행 가기 전에 달러를 준비했어요.",
+  "exampleJa": "旅行に行く前にドルを用意しました。",
+  "quizBlank": "달러"
+ },
+ {
+  "id": 23600,
+  "hangul": "공중전화",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "公衆電話",
+  "exampleKo": "길에 공중전화가 있어요.",
+  "exampleJa": "道に公衆電話があります。",
+  "quizBlank": "공중전화"
+ },
+ {
+  "id": 58913,
+  "hangul": "배부르다",
+  "level": 1,
+  "pos": "형용사",
+  "meaningJa": "満腹だ",
+  "exampleKo": "밥을 많이 먹어서 배불러요.",
+  "exampleJa": "ご飯をたくさん食べたので、お腹がいっぱいです。",
+  "quizBlank": "배불러요"
+ },
+ {
+  "id": 32793,
+  "hangul": "크리스마스",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "クリスマス",
+  "exampleKo": "크리스마스에 트리를 꾸몄어요.",
+  "exampleJa": "クリスマスにツリーを飾りました。",
+  "quizBlank": "크리스마스"
+ },
+ {
+  "id": 29647,
+  "hangul": "일본어",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "日本語",
+  "exampleKo": "저는 일본어를 조금 할 수 있어요.",
+  "exampleJa": "私は日本語が少し話せます。",
+  "quizBlank": "일본어"
+ },
+ {
+  "id": 32777,
+  "hangul": "냉면",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "冷麺",
+  "exampleKo": "여름에 시원한 냉면을 먹어요.",
+  "exampleJa": "夏に冷たい冷麺を食べます。",
+  "quizBlank": "냉면"
+ },
+ {
+  "id": 71066,
+  "hangul": "비빔밥",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "ビビンバ",
+  "exampleKo": "점심에 비빔밥을 먹었어요.",
+  "exampleJa": "お昼にビビンバを食べました。",
+  "quizBlank": "비빔밥"
+ },
+ {
+  "id": 68314,
+  "hangul": "경복궁",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "景福宮",
+  "exampleKo": "주말에 경복궁에 갔어요.",
+  "exampleJa": "週末に景福宮へ行きました。",
+  "quizBlank": "경복궁"
+ },
+ {
+  "id": 68909,
+  "hangul": "경주",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "慶州",
+  "exampleKo": "경주에는 옛날 왕의 무덤이 많아요.",
+  "exampleJa": "慶州には昔の王のお墓がたくさんあります。",
+  "quizBlank": "경주"
+ },
+ {
+  "id": 68334,
+  "hangul": "독일",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "ドイツ",
+  "exampleKo": "저는 독일 베를린에 가 봤어요.",
+  "exampleJa": "私はドイツのベルリンに行ったことがあります。",
+  "quizBlank": "독일"
+ },
+ {
+  "id": 68341,
+  "hangul": "러시아",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "ロシア",
+  "exampleKo": "러시아는 겨울이 아주 추워요.",
+  "exampleJa": "ロシアは冬がとても寒いです。",
+  "quizBlank": "러시아"
+ },
+ {
+  "id": 69738,
+  "hangul": "미국",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "アメリカ",
+  "exampleKo": "미국 뉴욕에 자유의 여신상이 있어요.",
+  "exampleJa": "アメリカのニューヨークに自由の女神像があります。",
+  "quizBlank": "미국"
+ },
+ {
+  "id": 68895,
+  "hangul": "부산",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "釜山",
+  "exampleKo": "부산에는 바다가 아름다워요.",
+  "exampleJa": "釜山は海がきれいです。",
+  "quizBlank": "부산"
+ },
+ {
+  "id": 69792,
+  "hangul": "서울",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "ソウル",
+  "exampleKo": "서울 한가운데에 한강이 있어요.",
+  "exampleJa": "ソウルの真ん中に漢江があります。",
+  "quizBlank": "서울"
+ },
+ {
+  "id": 68695,
+  "hangul": "설악산",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "雪岳山",
+  "exampleKo": "가을에 설악산에 단풍이 예뻐요.",
+  "exampleJa": "秋は雪岳山の紅葉がきれいです。",
+  "quizBlank": "설악산"
+ },
+ {
+  "id": 70054,
+  "hangul": "영국",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "イギリス",
+  "exampleKo": "영국 런던에 빅벤이 있어요.",
+  "exampleJa": "イギリスのロンドンにビッグ・ベンがあります。",
+  "quizBlank": "영국"
+ },
+ {
+  "id": 70019,
+  "hangul": "일본",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "日本",
+  "exampleKo": "일본에서 후지산을 봤어요.",
+  "exampleJa": "日本で富士山を見ました。",
+  "quizBlank": "일본"
+ },
+ {
+  "id": 68381,
+  "hangul": "제주도",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "済州島",
+  "exampleKo": "제주도에서 바다를 봤어요.",
+  "exampleJa": "済州島で海を見ました。",
+  "quizBlank": "제주도"
+ },
+ {
+  "id": 70057,
+  "hangul": "중국",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "中国",
+  "exampleKo": "중국에 만리장성이 있어요.",
+  "exampleJa": "中国に万里の長城があります。",
+  "quizBlank": "중국"
+ },
+ {
+  "id": 70040,
+  "hangul": "캐나다",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "カナダ",
+  "exampleKo": "캐나다는 자연이 아름다워요.",
+  "exampleJa": "カナダは自然が美しいです。",
+  "quizBlank": "캐나다"
+ },
+ {
+  "id": 70001,
+  "hangul": "프랑스",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "フランス",
+  "exampleKo": "프랑스 파리에 에펠탑이 있어요.",
+  "exampleJa": "フランスのパリにエッフェル塔があります。",
+  "quizBlank": "프랑스"
+ },
+ {
+  "id": 68717,
+  "hangul": "한강",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "漢江",
+  "exampleKo": "서울에서 한강을 볼 수 있어요.",
+  "exampleJa": "ソウルで漢江を見ることができます。",
+  "quizBlank": "한강"
+ },
+ {
+  "id": 70029,
+  "hangul": "한국",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "韓国",
+  "exampleKo": "한국에 와서 처음 경복궁에 갔어요.",
+  "exampleJa": "韓国に来て、初めて景福宮に行きました。",
+  "quizBlank": "한국"
+ },
+ {
+  "id": 70052,
+  "hangul": "호주",
+  "level": 1,
+  "pos": "명사",
+  "meaningJa": "オーストラリア",
+  "exampleKo": "호주 시드니에 오페라 하우스가 있어요.",
+  "exampleJa": "オーストラリアのシドニーにオペラハウスがあります。",
+  "quizBlank": "호주"
  }
 ]
